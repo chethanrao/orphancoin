@@ -1,0 +1,3 @@
+This is a reference implementation of a miner, for study.
+
+##In order for this software to run you must build and run bitcoind from source on your computer.  
