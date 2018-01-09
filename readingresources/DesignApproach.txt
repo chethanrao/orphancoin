@@ -1,4 +1,4 @@
 1) 
 Use Hashing power for most profitable crypto at every instant:
 Find the most profitable crypto currency miner at a particular instant.
-Mine the crypto currency with a website through distributed processing.
+Mine the crypto currency through a website.
