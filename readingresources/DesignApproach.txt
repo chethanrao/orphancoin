@@ -2,3 +2,6 @@
 Use Hashing power for most profitable crypto at every instant:
 Find the most profitable crypto currency miner at a particular instant.
 Mine the crypto currency through a website or android app
+
+https://miningpoolhub.com/index.php?page=api&action=getminingandprofitsstatistics
+http://whattomine.com/coins.json
